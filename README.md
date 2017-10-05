@@ -1,3 +1,6 @@
+NOTE: This has been forked from Joe Ferraro's GitHub repo to ensure Penrod's abilities to research and develop the open source MavensMate integration with Sublime Text.
+
+
 # MavensMate for Sublime Text
 
 MavensMate for Sublime Text is a plugin that aims to replicate the functionality of the Eclipse-based Force.com IDE. Its goal is to allow developers to work inside Sublime Text for all their Force.com-related tasks.
